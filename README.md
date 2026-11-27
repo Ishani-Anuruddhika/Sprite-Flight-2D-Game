@@ -11,5 +11,5 @@ A 2D flight arcade game built with **Unity**. Navigate your sprite through obsta
 ---
 
 ## 🛠️ Built With
-* **Game Engine:** Unity *
+* **Game Engine:** Unity 
 * **Programming Language:** C#
